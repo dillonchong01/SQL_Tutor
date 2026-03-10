@@ -1,0 +1,6 @@
+chainlit>=1.1.0
+openai>=1.40.0
+plotly>=5.22.0
+langchain>=0.2.12
+langchain-openai>=0.1.22
+langgraph>=0.2.28

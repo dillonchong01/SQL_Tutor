@@ -1,0 +1,9 @@
+[project]
+name = "Agentic SQL Tutor"
+
+[features]
+unsafe_allow_html = false
+
+[UI]
+name = "SQL Tutor"
+default_theme = "light"
